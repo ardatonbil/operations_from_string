@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
 
+
+//the input should be in format of 2 + 3 = 5 and only addition and subtraction are allowed
+
 int exp(int x, int y) {
     int h = 0;
     int result = 1;
