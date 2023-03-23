@@ -1,0 +1,3 @@
+C:/Users/ardat/Desktop/operations_from_string/cmake-build-debug/CMakeFiles/operations_from_string.dir
+C:/Users/ardat/Desktop/operations_from_string/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ardat/Desktop/operations_from_string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
